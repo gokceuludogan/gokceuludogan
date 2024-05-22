@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![Gökçe' GitHub stats](https://github-readme-stats.vercel.app/api?username=gokceuludogan&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&show=reviews)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokceuludogan&hide_progress=false&size_weight=0&count_weight=1&hide=jupyter%20notebook,matlab&layout=compact&theme=chartreuse-dark)
+
+
 <!--
 **gokceuludogan/gokceuludogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
